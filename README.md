@@ -1,16 +1,21 @@
-## Hi there 👋
 
 <!--
 **hafeez-exe/hafeez-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*hafeez-exe/hafeez-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Hafeez 👋
+
+Aspiring AI Engineer focused on Systems over Models.
+
+🔭 I’m currently building: A production-ready RAG pipeline for legal document analysis.
+
+🌱 I’m learning: Docker, CI/CD for ML, and Vector Search (Qdrant).
+
+👯 I’m looking to contribute to: LlamaIndex and LangChain for GSoC 2026.
+
+Tech Stack:
+
+Python | PyTorch | LlamaIndex | Docker | Git
+
