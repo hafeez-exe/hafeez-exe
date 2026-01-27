@@ -18,14 +18,26 @@ I build production-ready machine learning infrastructure, focusing on MLOps, vec
 -  **Building:** A production-ready RAG pipeline for automated legal document analysis.
 -  **Learning:** Docker containerization, CI/CD for ML, and Qdrant (Vector Search).
 
-###  Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=meta&logoColor=white) 
+### 🧠 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%2304383F.svg?style=for-the-badge&logo=LlamaIndex&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Infrastructure & Ops:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ⚙️ MLOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-022b36?style=for-the-badge&logo=dagshub&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+## 🔭 Currently Working On
+**[LlamaIndex + VL-JEPA Multimodal RAG](https://github.com/hafeez-exe/llamaindex-vljepa-multimodal-rag)**
+Building a next-gen retrieval pipeline using Meta's V-JEPA for video/image embeddings and Qdrant for vector search.
+* **Focus:** MLOps, Custom Embeddings, Vector Search Architecture.
 ---
 
 ###  GitHub Activity
