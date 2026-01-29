@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 ### AI Engineer | Open Source Contributor | Systems over Models
 
-I build production-ready machine learning infrastructure, focusing on MLOps, vector search, and multimodal AI. Currently preparing for **GSoC 2026**, targeting high-impact contributions to **LlamaIndex** and **LangChain**.
+I build production-ready machine learning infrastructure, focusing on MLOps, vector search, and multimodal AI.
 
 ---
 
