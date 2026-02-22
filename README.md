@@ -16,7 +16,7 @@ I build production-ready machine learning infrastructure, focusing on MLOps, vec
 ###  What I'm doing right now
 -  **Contributing to LlamaIndex:** Working on open issues and building a [VL-JEPA + Multimodal RAG architecture](https://github.com/hafeez-exe/llamaindex-vljepa-multimodal-rag).
 -  **Building:** A production-ready RAG pipeline for automated legal document analysis.
--  **Learning:** Docker containerization, CI/CD for ML, and Qdrant (Vector Search).
+-  **Learning:** Docker containerization, CI/CD for ML , Statistical Anomaly Detection, and high-performance data monitoring and Qdrant (Vector Search).
 
 ## 🛠️ Tech Stack & Skills
 
