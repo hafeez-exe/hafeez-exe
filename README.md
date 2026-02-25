@@ -68,7 +68,7 @@ This project explores automated performance monitoring and anomaly detection for
 
 ---
 ### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=syedhafeez.exe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedhafeez.exe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-hafeez-940b90225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
