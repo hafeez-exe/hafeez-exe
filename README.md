@@ -67,8 +67,18 @@ This project explores automated performance monitoring and anomaly detection for
 > *"AI is 10% modeling and 90% systems engineering."*
 
 ---
-### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedhafeez.exe@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-hafeez-940b90225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+<br>
+<div align="center">
+  <h3>📫 Contact </h3>
+  <a href="mailto:syedhafeez.exe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-syedhafeez.exe%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/syed-hafeez-940b90225">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+
 
 
